@@ -19,6 +19,8 @@ Double click on Timer and change the timing method to Game Time
 
 ![Changing the Timing Method](https://i.imgur.com/MrDxUQr.png)
 
+Switching the delta setting inside splits to gametime allows you to compare to the loadless times
+
 ## Usage
 
 Livesplit needs to be running in Administrator mode to work as it needs to locate the Monkey Ball HD Process
